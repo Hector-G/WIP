@@ -27,7 +27,9 @@ void loop()
 }
 ```
 
-\<link\>Reference Home
+-------------------------
+
+[Índice Referencia](https://github.com/Hector-G/WIP/blob/master/Arduino/Reference.md)
 
 
 [Documentación en la web oficial de Arduino](https://www.arduino.cc/en/Reference/Loop)
