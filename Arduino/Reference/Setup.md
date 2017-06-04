@@ -2,7 +2,7 @@
 
 Se llama a la función ```setup()``` cuando arranca el sketch. Utilízala para inicializar variables, definir pines, utilizar librerías, etc. La función setup sólo se ejecuta una vez, al conectar la placa Arduino o al hacer un reset.
 
-Ejemplo
+### Ejemplo
 
 ```Arduino 
 int pinBoton = 3;
