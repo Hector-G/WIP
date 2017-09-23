@@ -1,4 +1,8 @@
-# cos(rad)
+# cos()
+
+### Sintaxis
+
+```cos(rad)```
 
 ### Descripción
 
