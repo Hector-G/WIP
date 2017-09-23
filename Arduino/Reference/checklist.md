@@ -1,6 +1,6 @@
 # PROGRESO DE LA TRADUCCIÓN  
 
-**40%**  <br /> (57/141)
+**42.55%**  <br /> (60/141)
 
 ## Structure
 
@@ -176,9 +176,9 @@
 
 ##### Trigonometry
 
-- [ ] sin()
-- [ ] cos()
-- [ ] tan()
+- [x] sin()
+- [x] cos()
+- [x] tan()
 
 ##### Characters
 
