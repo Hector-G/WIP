@@ -1,4 +1,8 @@
-# sin(rad)
+# sin()
+
+### Sintaxis
+
+```sin(rad)```
 
 ### Descripción
 
@@ -6,11 +10,11 @@ Calcula el seno de un ángulo (en radianes). El resultado estará entre -1 y 1.
 
 ### Parámetros
 
-rad: el ángulo en radianes (float)
+rad: el ángulo en radianes (_float_)
 
 ### Devuelve
 
-el seno del ángulo (double)
+el seno del ángulo (_double_)
 
 -------------------------
 
